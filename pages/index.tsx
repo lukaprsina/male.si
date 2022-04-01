@@ -16,7 +16,7 @@ const Home: NextPage = () => {
         <p style={{
             position: "fixed",
             color: "red",
-            fontSize: "10em",
+            fontSize: "2em",
             zIndex: "2",
         }}>
             you are a sigma male.
